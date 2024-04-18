@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://masane777.github.io/preloaderJs/imagem.svg';
+svgImage.src = 'https://masane777.github.io/preloaderJs/PreloaderGallixQuadrados.svg';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
